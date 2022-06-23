@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/reactNetflix/static/css/main.71d0c1d2.css",
+    "main.js": "/github.io/reactNetflix/static/js/main.d9c8ca22.js",
+    "index.html": "/github.io/reactNetflix/index.html",
+    "main.71d0c1d2.css.map": "/github.io/reactNetflix/static/css/main.71d0c1d2.css.map",
+    "main.d9c8ca22.js.map": "/github.io/reactNetflix/static/js/main.d9c8ca22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d0c1d2.css",
+    "static/js/main.d9c8ca22.js"
+  ]
+}
